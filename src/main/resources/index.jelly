@@ -1,0 +1,4 @@
+<div>
+	This plugin displays a daily quote retrieved from www.brainyquote.com on each jenkins page. 
+        Please see http://www.brainyquote.com/link/index.html to see how this information is retrieved.
+</div>

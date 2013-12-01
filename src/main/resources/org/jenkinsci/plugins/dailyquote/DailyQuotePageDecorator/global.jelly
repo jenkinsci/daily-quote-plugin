@@ -1,0 +1,8 @@
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
+  <f:section title="Daily Quote Plugin">
+    <f:entry title="Enabled" field="enabled"
+      description=" Check if we want the brainyquote.com quote of the day to be displayed in the header of each jenkins page ">
+      <f:checkbox />
+    </f:entry>
+  </f:section>
+</j:jelly>
