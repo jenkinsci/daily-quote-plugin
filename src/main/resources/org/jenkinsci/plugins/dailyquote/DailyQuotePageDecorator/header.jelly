@@ -1,7 +1,7 @@
 <j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define" xmlns:l="/lib/layout" xmlns:t="/lib/hudson" xmlns:f="/lib/form">
         <j:if test="${it.enabled!=false}">
-	<script type="text/javascript" src="http://www.brainyquote.com/link/quotebr.js"></script>
-        <small><i><a href="http://www.brainyquote.com/quotes_of_the_day.html" target="_blank">more Quotes</a></i></small>
+	<script type="text/javascript" src="https://www.brainyquote.com/link/quotebr.js"></script>
+        <small><i><a href="https://www.brainyquote.com/quotes_of_the_day.html" target="_blank">more Quotes</a></i></small>
         </j:if>
 </j:jelly>
 
